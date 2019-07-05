@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/alisherakb/spacerAR-landing/static/css/main.34de6062.chunk.css",
-    "main.js": "/alisherakb/spacerAR-landing/static/js/main.a5bbcb2b.chunk.js",
-    "main.js.map": "/alisherakb/spacerAR-landing/static/js/main.a5bbcb2b.chunk.js.map",
-    "runtime~main.js": "/alisherakb/spacerAR-landing/static/js/runtime~main.6908d81d.js",
-    "runtime~main.js.map": "/alisherakb/spacerAR-landing/static/js/runtime~main.6908d81d.js.map",
-    "static/js/2.480acd84.chunk.js": "/alisherakb/spacerAR-landing/static/js/2.480acd84.chunk.js",
-    "static/js/2.480acd84.chunk.js.map": "/alisherakb/spacerAR-landing/static/js/2.480acd84.chunk.js.map",
-    "index.html": "/alisherakb/spacerAR-landing/index.html",
-    "precache-manifest.02e5f7d493de98f6c4606ae3acfb377c.js": "/alisherakb/spacerAR-landing/precache-manifest.02e5f7d493de98f6c4606ae3acfb377c.js",
-    "service-worker.js": "/alisherakb/spacerAR-landing/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/alisherakb/spacerAR-landing/static/css/main.34de6062.chunk.css.map",
-    "static/media/AppleButton.png": "/alisherakb/spacerAR-landing/static/media/AppleButton.16256e83.png",
-    "static/media/Logo.png": "/alisherakb/spacerAR-landing/static/media/Logo.c759d69c.png",
-    "static/media/PlayMarket.png": "/alisherakb/spacerAR-landing/static/media/PlayMarket.0f88d8dc.png",
-    "static/media/Screenshot.png": "/alisherakb/spacerAR-landing/static/media/Screenshot.c25a79ef.png"
+    "main.css": "/alisherakb/SpacerLanding/static/css/main.34de6062.chunk.css",
+    "main.js": "/alisherakb/SpacerLanding/static/js/main.21efd79d.chunk.js",
+    "main.js.map": "/alisherakb/SpacerLanding/static/js/main.21efd79d.chunk.js.map",
+    "runtime~main.js": "/alisherakb/SpacerLanding/static/js/runtime~main.a391a8bb.js",
+    "runtime~main.js.map": "/alisherakb/SpacerLanding/static/js/runtime~main.a391a8bb.js.map",
+    "static/js/2.480acd84.chunk.js": "/alisherakb/SpacerLanding/static/js/2.480acd84.chunk.js",
+    "static/js/2.480acd84.chunk.js.map": "/alisherakb/SpacerLanding/static/js/2.480acd84.chunk.js.map",
+    "index.html": "/alisherakb/SpacerLanding/index.html",
+    "precache-manifest.174ae7e33c0ced1d3d3045f3c2095154.js": "/alisherakb/SpacerLanding/precache-manifest.174ae7e33c0ced1d3d3045f3c2095154.js",
+    "service-worker.js": "/alisherakb/SpacerLanding/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/alisherakb/SpacerLanding/static/css/main.34de6062.chunk.css.map",
+    "static/media/AppleButton.png": "/alisherakb/SpacerLanding/static/media/AppleButton.16256e83.png",
+    "static/media/Logo.png": "/alisherakb/SpacerLanding/static/media/Logo.c759d69c.png",
+    "static/media/PlayMarket.png": "/alisherakb/SpacerLanding/static/media/PlayMarket.0f88d8dc.png",
+    "static/media/Screenshot.png": "/alisherakb/SpacerLanding/static/media/Screenshot.c25a79ef.png"
   }
 }
