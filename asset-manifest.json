@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/SpacerLanding/static/css/main.34de6062.chunk.css",
-    "main.js": "/SpacerLanding/static/js/main.47b200c3.chunk.js",
-    "main.js.map": "/SpacerLanding/static/js/main.47b200c3.chunk.js.map",
-    "runtime~main.js": "/SpacerLanding/static/js/runtime~main.138df45f.js",
-    "runtime~main.js.map": "/SpacerLanding/static/js/runtime~main.138df45f.js.map",
-    "static/js/2.480acd84.chunk.js": "/SpacerLanding/static/js/2.480acd84.chunk.js",
-    "static/js/2.480acd84.chunk.js.map": "/SpacerLanding/static/js/2.480acd84.chunk.js.map",
-    "index.html": "/SpacerLanding/index.html",
-    "precache-manifest.1a06f476479578592a8be843ca4f5fb9.js": "/SpacerLanding/precache-manifest.1a06f476479578592a8be843ca4f5fb9.js",
-    "service-worker.js": "/SpacerLanding/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/SpacerLanding/static/css/main.34de6062.chunk.css.map",
-    "static/media/AppleButton.png": "/SpacerLanding/static/media/AppleButton.16256e83.png",
-    "static/media/Logo.png": "/SpacerLanding/static/media/Logo.c759d69c.png",
-    "static/media/PlayMarket.png": "/SpacerLanding/static/media/PlayMarket.0f88d8dc.png",
-    "static/media/Screenshot.png": "/SpacerLanding/static/media/Screenshot.c25a79ef.png"
+    "main.css": "/static/css/main.34de6062.chunk.css",
+    "main.js": "/static/js/main.10d7e183.chunk.js",
+    "main.js.map": "/static/js/main.10d7e183.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.480acd84.chunk.js": "/static/js/2.480acd84.chunk.js",
+    "static/js/2.480acd84.chunk.js.map": "/static/js/2.480acd84.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8cba1b39e3f13d8c7434b4c56ed8f5d4.js": "/precache-manifest.8cba1b39e3f13d8c7434b4c56ed8f5d4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map",
+    "static/media/AppleButton.png": "/static/media/AppleButton.16256e83.png",
+    "static/media/Logo.png": "/static/media/Logo.c759d69c.png",
+    "static/media/PlayMarket.png": "/static/media/PlayMarket.0f88d8dc.png",
+    "static/media/Screenshot.png": "/static/media/Screenshot.c25a79ef.png"
   }
 }
