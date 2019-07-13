@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SpacerLanding/precache-manifest.eadc92b730aa60c7dae89e6a51d04511.js"
+  "/SpacerLanding/precache-manifest.1a06f476479578592a8be843ca4f5fb9.js"
 );
 
 self.addEventListener('message', (event) => {
